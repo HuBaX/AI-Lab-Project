@@ -1,1 +1,4 @@
-/data
+data
+preprocessed
+seq2seq.pth
+word2index.pkl

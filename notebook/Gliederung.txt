@@ -1,0 +1,12 @@
+1 Einleitung				1/2
+2 Dataset (inkl. Preprocessing)		3/4
+3 Modell-Architektur			1,5
+	3.1 Encoder
+	3.2 Decoder
+	3.3 Sequence-2-Sequence
+4 Evaluation				1.5
+	5.1 Baseline
+	5.2 Padding
+	5.3 LSTM Layers
+	5.4 EfficientNet b5
+Fazit					1/2

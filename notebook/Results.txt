@@ -1,0 +1,2 @@
+v1: Average Mean Cosine Similarity: 0,5885
+v2 (Komplettes Resnet50 kann ebenfalls trainiert werden): Average Mean Cosine Similarity: 

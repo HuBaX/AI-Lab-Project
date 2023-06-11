@@ -1,2 +1,4 @@
-v1: Average Mean Cosine Similarity: 0,5885
-v2 (Komplettes Resnet50 kann ebenfalls trainiert werden): Average Mean Cosine Similarity: 
+v1: Average Mean Cosine Similarity: 0.5885
+v2 (Padding): Average Mean Cosine Similarity: 0.5883
+v3 (5 LSTM Layers): Average Mean Cosine Similarity: 0.6027
+v4 (EfficientNet b5): Average Mean Cosine Similarity: 0.6039

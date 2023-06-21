@@ -2,3 +2,4 @@ data
 preprocessed
 parameters
 word2index.pkl
+raw_prompts.csv
